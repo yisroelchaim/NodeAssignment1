@@ -1,0 +1,23 @@
+{
+  "name": "exc5",
+  "version": "1.0.0",
+  "description": "Routing for index and user.",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yisroelchaim/NodeAssignment1.git"
+  },
+  "author": "Iggy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yisroelchaim/NodeAssignment1/issues"
+  },
+  "homepage": "https://github.com/yisroelchaim/NodeAssignment1#readme"
+}
