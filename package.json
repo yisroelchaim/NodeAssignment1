@@ -4,7 +4,11 @@
   "description": "HTTP API that responds to a request to /<zipcode> with the weather for the zip code",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "express-handlebars": "^2.0.1",
+    "handlebars": "^4.0.3",
+    "hbs": "^3.1.1",
+    "jade": "1.11.0"
   },
   "devDependencies": {},
   "scripts": {
